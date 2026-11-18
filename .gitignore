@@ -1,0 +1,8 @@
+# datasets, results and figures are not tracked
+*.dat
+*/results/
+*/figures/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
